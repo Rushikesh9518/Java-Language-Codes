@@ -39,8 +39,8 @@ public class ReverseString {
 
             if (str.charAt(start) != str.charAt(end)) {
 
-                char startChar = str.charAt(start);
-                char endChar = str.charAt(end);
+                str.charAt(start);
+                str.charAt(end);
 
                 // swap
             }
