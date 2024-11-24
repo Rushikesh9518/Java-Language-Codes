@@ -3,7 +3,7 @@ package Java;
 import java.util.Arrays;
 import java.util.Collections;
 
-public class ReverseWords {
+public class ReverseWords{
 
     public static String reverseWords(String input) {
 
