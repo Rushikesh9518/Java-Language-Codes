@@ -1,3 +1,5 @@
+package Java;
+
 public class Pallindrome {
 
     static int digitcount(int copy) {
